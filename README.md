@@ -22,7 +22,7 @@ I study **the geometry of learned representations**: how it breaks under compres
 | **Correspondence, Not Geometry: Why Optimal Transport Fails to Repair Distilled Sentence Embedding Spaces** | Accepted, 2026 | — |
 
 ### 🛠️ Other projects
-- [ai-research-platform](https://github.com/manseerataulakh/ai-research-platform) — autonomous AI research platform with Claude-powered experiment planning
+- [ai-research-platform](https://github.com/manseerataulakh/ai-research-platform) — autonomous platform that plans and runs machine-learning experiments
 - [vitalrag](https://github.com/manseerataulakh/vitalrag)
 
 ### 💻 Tools
